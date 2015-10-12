@@ -596,7 +596,7 @@ Constants are preferred over in-line string literals or numbers, as they allow f
 __Preferred:__
 
 ``` objc
-static NSString * const IOAboutViewControllerCompanyName = @"iulianonofrei.com";
+static NSString *const IOAboutViewControllerCompanyName = @"iulianonofrei.com";
 
 static CGFloat const IOImageThumbnailHeight = 50.0;
 ```
